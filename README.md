@@ -105,7 +105,7 @@ We constructed a **Three-Stage Quantitative System** that integrates statistical
 
 First and foremost, we extend our deepest gratitude to our supervisor, **Prof. Ling Xue**, whose invaluable guidance and insightful feedback were the compass guiding us through this complex challenge. Her mentorship not only helped us navigate the technical difficulties but also inspired us to think deeply about the practical implications of our models.
 
-Equally, this achievement belongs to the unwavering spirit of our team. During those four intense days and nights, **Renwen Lu**, **Sihan Lyu**, and **Xinyahui Zhao** fought side by side, turning abstract mathematical problems into concrete code and prose. The shared memories of debugging at dawn, debating modeling strategies, and supporting each other under extreme pressure will be cherished forever as a highlight of our undergraduate journey.
+Equally, this achievement belongs to the unwavering spirit of our team. During those four intense days and nights, **Sihan Lyu**, **Xinyahui Zhao** and I fought side by side, turning abstract mathematical problems into concrete code and prose. The shared memories of debugging at dawn, debating modeling strategies, and supporting each other under extreme pressure will be cherished forever as a highlight of our undergraduate journey.
 
 ---
 ## 📂 Repository Structure
