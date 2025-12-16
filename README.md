@@ -1,11 +1,11 @@
 # Quantitative Analysis for Agricultural Strategy Optimization
 
-> **2024 China Undergraduate Mathematical Contest in Modeling (CUMCM) - Problem C**
+> **2024 Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM) - Problem C**
 >
 > 🏆 **National Second Prize** (Ranked Top **2.34%** among undergraduate teams nationwide)
 
 ### About CUMCM
-The China Undergraduate Mathematical Contest in Modeling (CUMCM) was founded in 1992 and is held annually. It is one of the first 19 competitions included in the national "University Discipline Competition Ranking." In 2025, the contest attracted over **200,000 participants** from **68,311 teams** (61,463 undergraduate and 6,848 vocational teams) representing **1,837 institutions** across China, the US, UK, Canada, Finland, Malaysia, and other countries.
+The Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM) was founded in 1992 and is held annually. It is one of the first 19 competitions included in the national "University Discipline Competition Ranking." In 2025, the contest attracted over **200,000 participants** from **68,311 teams** (61,463 undergraduate and 6,848 vocational teams) representing **1,837 institutions** across China, the US, UK, Canada, Finland, Malaysia, and other countries.
 🔗 [Official Website](https://www.mcm.edu.cn/)
 
 ---
