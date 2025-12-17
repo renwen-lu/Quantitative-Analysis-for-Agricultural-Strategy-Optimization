@@ -16,9 +16,6 @@ This project addresses a real-world agricultural planning problem for a village 
 
 The agricultural setting is highly heterogeneous:
 * **Land Resources:** 1,201 mu of arable land dispersed into **34 plots** of varying types (Flat Dry Land, Terraced Fields, Hill Slopes, Irrigated Land) and **20 Greenhouses** (16 Ordinary, 4 Smart).
-* **Cropping Capabilities:**
-    * *Open Land:* Mostly single-season grain crops; Irrigated land supports rice or two-season vegetables.
-    * *Greenhouses:* Support intensive vegetable/fungi cultivation (multiple seasons).
 * **Agronomic Rules:**
     * **Crop Rotation:** Continuous cropping of the same crop on the same plot is prohibited to prevent yield loss.
     * **Soil Improvement:** Leguminous crops must be planted on *every* plot at least once within any **3-year rolling window**.
