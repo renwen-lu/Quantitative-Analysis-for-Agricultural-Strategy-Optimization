@@ -15,9 +15,8 @@ According to the official statistics released by the CUMCM organizing committee,
 
 **Ranking Logic:**
 Our team received the National Second Prize. Based on the total number of participants, the top percentage is calculated as:
-\[
-\frac{296 (\text{1st Prize}) + 1204 (\text{2nd Prize})}{59,278 (\text{Total Teams})} \approx \mathbf{2.53\%}
-\]
+
+(296 First Prize + 1204 Second Prize) / 59,278 Total Teams ≈ **2.53%**
 
 **Official Sources:**
 * [Competition Statistics Announcement](https://www.mcm.edu.cn/html_cn/node/993811071382f502658d2b50953eb68d.html)
@@ -59,4 +58,5 @@ Please input the following information into the query form (from top to bottom):
 4.  **Year (获奖年份):** Select `2024`
 
 After clicking query, the system will display the verified National Second Prize certificate information.
+
 
