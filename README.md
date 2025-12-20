@@ -37,7 +37,7 @@ The core difficulty lies in solving a **Large-Scale Multi-Stage Stochastic Optim
 * **Piecewise Revenue Functions:** In Problem 1, excess production is sold at a discounted rate (or wasted), creating a non-linear objective function. We linearized this using **Big-M methods** and auxiliary binary variables.
 * **Threshold Constraints:** Minimum area requirements introduce semi-continuous constraints.
 
-### 3. Uncertainty & Market Coupling (Quant Focus)
+### 3. Uncertainty & Market Coupling 
 * **Stochastic Factors:** Yields, costs, and prices follow different stochastic processes (Growth Trends vs. Mean-Reverting Random Walks).
 * **Market Correlation:** In Problem 3, crops are not independent. Price changes in *Wheat* affect the demand for *Corn* (Substitute) and *Vegetables* (Complement). We had to model this **"Butterfly Effect"** without historical correlation data by deriving a **Cross-Price Elasticity Matrix**.
 
@@ -125,7 +125,6 @@ agricultural-planting-optimization/
 ├── 📁 paper/                   # Research Paper & Figures
 │   ├── CN/                     # Chinese Version
 │   ├── EN/                     # English Version
-│   └── figures/                # Visualization of Strategies & Correlations
 │
 ├── 📁 award/                  # Certificates
 ├── 📁 verification/            # Guides to verify the award and the ranking
