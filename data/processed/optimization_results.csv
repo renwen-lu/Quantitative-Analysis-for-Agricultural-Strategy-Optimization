@@ -1,0 +1,464 @@
+Year,Season,Plot,Crop,Area
+2025,1,A1,Black Bean,80.0
+2028,1,A1,Black Bean,80.0
+2024,1,A2,Black Bean,55.0
+2026,1,A2,Black Bean,3.4545454545454684
+2029,1,A2,Black Bean,55.0
+2025,1,A3,Black Bean,35.0
+2026,1,A4,Black Bean,72.0
+2029,1,A4,Black Bean,72.0
+2027,1,A5,Black Bean,68.0
+2030,1,A5,Black Bean,68.0
+2028,1,A6,Black Bean,51.1
+2030,1,B2,Black Bean,46.0
+2025,1,B4,Black Bean,16.94736842105261
+2026,1,B4,Black Bean,23.57416267942584
+2027,1,B5,Black Bean,25.0
+2024,1,B10,Black Bean,25.0
+2024,1,B12,Black Bean,20.105263157894736
+2027,1,B12,Black Bean,41.421052631578945
+2024,1,B13,Black Bean,35.0
+2026,1,B13,Black Bean,35.0
+2030,1,C3,Black Bean,15.0
+2028,1,A3,Red Bean,35.0
+2025,1,A6,Red Bean,47.5
+2024,1,B1,Red Bean,60.0
+2027,1,B1,Red Bean,60.0
+2030,1,B1,Red Bean,60.0
+2027,1,B3,Red Bean,40.0
+2029,1,B3,Red Bean,40.0
+2030,1,B3,Red Bean,30.0
+2027,1,B4,Red Bean,28.0
+2030,1,B4,Red Bean,28.0
+2030,1,B5,Red Bean,25.0
+2025,1,B6,Red Bean,86.0
+2028,1,B6,Red Bean,86.0
+2024,1,B7,Red Bean,55.0
+2026,1,B7,Red Bean,55.0
+2025,1,B8,Red Bean,44.0
+2028,1,B8,Red Bean,44.0
+2024,1,B9,Red Bean,50.0
+2026,1,B9,Red Bean,50.0
+2029,1,B9,Red Bean,50.0
+2027,1,B10,Red Bean,25.0
+2030,1,B10,Red Bean,25.0
+2026,1,B11,Red Bean,60.0
+2029,1,B11,Red Bean,60.0
+2027,1,B13,Red Bean,10.0
+2029,1,B13,Red Bean,29.99000000000003
+2027,1,C3,Red Bean,15.0
+2028,1,C4,Red Bean,13.88888888888889
+2027,1,B2,Climbing Bean,46.0
+2029,1,B12,Climbing Bean,45.0
+2024,1,B14,Climbing Bean,20.0
+2026,1,B14,Climbing Bean,20.0
+2029,1,B14,Climbing Bean,20.0
+2025,1,C1,Climbing Bean,15.0
+2028,1,C1,Climbing Bean,15.0
+2025,1,C2,Climbing Bean,13.0
+2026,1,C2,Climbing Bean,13.0
+2028,1,C2,Climbing Bean,13.0
+2024,1,C4,Climbing Bean,18.0
+2025,1,C4,Climbing Bean,18.0
+2025,1,C5,Climbing Bean,27.0
+2028,1,C5,Climbing Bean,27.0
+2030,1,C5,Climbing Bean,27.0
+2027,1,C6,Climbing Bean,20.0
+2028,1,C6,Climbing Bean,20.0
+2030,1,C6,Climbing Bean,20.0
+2024,1,A1,Corn,80.0
+2026,1,A1,Corn,80.0
+2027,1,A1,Corn,80.0
+2029,1,A1,Corn,80.0
+2030,1,A1,Corn,80.0
+2027,1,A2,Corn,55.0
+2028,1,A2,Corn,55.0
+2030,1,A2,Corn,55.0
+2024,1,A4,Corn,72.0
+2025,1,A4,Corn,72.0
+2027,1,A4,Corn,72.0
+2028,1,A4,Corn,72.0
+2030,1,A4,Corn,72.0
+2024,1,A5,Corn,68.0
+2025,1,A5,Corn,68.0
+2026,1,A5,Corn,68.0
+2028,1,A5,Corn,68.0
+2029,1,A5,Corn,68.0
+2024,1,A6,Corn,55.0
+2026,1,A6,Corn,7.380952380952381
+2029,1,A6,Corn,55.0
+2030,1,A6,Corn,55.0
+2025,1,B1,Corn,60.0
+2025,1,B2,Corn,46.0
+2026,1,B2,Corn,46.0
+2029,1,B2,Corn,46.0
+2024,1,B3,Corn,40.0
+2029,1,B5,Corn,25.0
+2026,1,B6,Corn,86.0
+2030,1,B6,Corn,86.0
+2026,1,B8,Corn,44.0
+2027,1,B8,Corn,44.0
+2027,1,B9,Corn,50.0
+2028,1,B9,Corn,50.0
+2026,1,B10,Corn,25.0
+2024,1,B11,Corn,31.0
+2025,1,B11,Corn,60.0
+2028,1,B11,Corn,60.0
+2028,1,B12,Corn,45.0
+2026,1,A6,Sorghum,47.61904761904762
+2026,1,B1,Sorghum,60.0
+2028,1,B1,Sorghum,60.0
+2029,1,B1,Sorghum,60.0
+2028,1,B2,Sorghum,46.0
+2026,1,B3,Sorghum,40.0
+2030,1,B3,Sorghum,10.0
+2024,1,B4,Sorghum,14.0
+2025,1,B5,Sorghum,25.0
+2024,1,B6,Sorghum,86.0
+2027,1,B6,Sorghum,86.0
+2029,1,B6,Sorghum,86.0
+2025,1,B7,Sorghum,55.0
+2024,1,B8,Sorghum,44.0
+2025,1,B9,Sorghum,50.0
+2027,1,B11,Sorghum,40.0
+2030,1,B11,Sorghum,60.0
+2030,1,B12,Sorghum,45.0
+2030,1,B13,Sorghum,15.0
+2025,1,B14,Sorghum,20.0
+2028,1,B14,Sorghum,20.0
+2030,1,B14,Sorghum,20.0
+2027,1,C5,Sorghum,25.263157894736835
+2024,1,B2,Broomcorn Millet,46.0
+2025,1,B3,Broomcorn Millet,40.0
+2026,1,B5,Broomcorn Millet,25.0
+2028,1,B5,Broomcorn Millet,20.0
+2027,1,B7,Broomcorn Millet,55.0
+2028,1,B7,Broomcorn Millet,55.0
+2030,1,B7,Broomcorn Millet,55.0
+2029,1,B8,Broomcorn Millet,44.0
+2029,1,B10,Broomcorn Millet,25.0
+2024,1,B11,Broomcorn Millet,29.0
+2027,1,B11,Broomcorn Millet,20.0
+2026,1,B12,Broomcorn Millet,45.0
+2025,1,B13,Broomcorn Millet,35.0
+2030,1,B13,Broomcorn Millet,20.0
+2028,1,B3,Buckwheat,40.0
+2029,1,B4,Buckwheat,28.0
+2030,1,B8,Buckwheat,44.0
+2025,1,B12,Buckwheat,45.0
+2027,1,B13,Buckwheat,25.0
+2027,1,B14,Buckwheat,20.0
+2024,1,C5,Buckwheat,27.0
+2026,1,C5,Buckwheat,27.0
+2024,1,C6,Buckwheat,20.0
+2026,1,C6,Buckwheat,20.0
+2029,1,C6,Buckwheat,17.85
+2026,1,A3,Pumpkin,35.0
+2027,1,A3,Pumpkin,35.0
+2029,1,A3,Pumpkin,35.0
+2030,1,A3,Pumpkin,35.0
+2024,1,B4,Pumpkin,14.0
+2024,1,B5,Pumpkin,25.0
+2028,1,B5,Pumpkin,4.0
+2025,1,B10,Pumpkin,25.0
+2028,1,B13,Pumpkin,35.0
+2025,1,A2,Sweet Potato,51.54545454545455
+2026,1,A2,Sweet Potato,51.54545454545455
+2024,1,A3,Sweet Potato,35.0
+2027,1,A6,Sweet Potato,51.54545454545455
+2028,1,B4,Sweet Potato,28.0
+2029,1,B7,Sweet Potato,54.0
+2030,1,B9,Sweet Potato,50.0
+2028,1,B10,Sweet Potato,25.0
+2024,1,B12,Sweet Potato,17.333333333333332
+2025,2,D1,Cowpea,15.0
+2027,1,D1,Cowpea,5.96
+2030,1,D1,Cowpea,15.0
+2025,1,D2,Cowpea,10.0
+2028,1,D2,Cowpea,10.0
+2028,1,D3,Cowpea,13.08
+2024,1,D5,Cowpea,5.960000000000011
+2026,2,D5,Cowpea,3.9600000000000115
+2029,1,D5,Cowpea,3.2400000000000104
+2026,2,D7,Cowpea,22.0
+2029,1,D7,Cowpea,22.0
+2024,1,D8,Cowpea,20.0
+2027,2,D8,Cowpea,20.0
+2030,1,D8,Cowpea,10.96
+2028,2,E2,Cowpea,0.6
+2028,1,E3,Cowpea,0.6
+2029,1,E8,Cowpea,0.6
+2028,2,E15,Cowpea,0.6
+2028,2,E16,Cowpea,0.6
+2024,2,D1,Sword Bean,15.0
+2028,1,D1,Sword Bean,15.0
+2024,2,D3,Sword Bean,14.0
+2026,1,D3,Sword Bean,11.81250000000001
+2027,1,D3,Sword Bean,14.0
+2030,1,D3,Sword Bean,14.0
+2026,1,D4,Sword Bean,4.005405405405409
+2028,2,D5,Sword Bean,10.0
+2026,1,D6,Sword Bean,12.0
+2027,1,D6,Sword Bean,12.0
+2029,1,D6,Sword Bean,9.040000000000006
+2025,2,D7,Sword Bean,22.0
+2030,2,D7,Sword Bean,15.04
+2029,2,D8,Sword Bean,20.0
+2025,1,E3,Sword Bean,0.6
+2025,2,E6,Sword Bean,0.6
+2025,2,E14,Sword Bean,0.6
+2025,2,E16,Sword Bean,0.6
+2025,2,F1,Sword Bean,0.6
+2028,1,F1,Sword Bean,0.6
+2025,2,F2,Sword Bean,0.6
+2028,2,F2,Sword Bean,0.6
+2026,2,F4,Sword Bean,0.6
+2028,1,F4,Sword Bean,0.6
+2024,2,D4,Kidney Bean,3.96
+2027,2,D4,Kidney Bean,2.3149390243902466
+2030,1,D4,Kidney Bean,3.96
+2027,2,E1,Kidney Bean,0.6
+2029,1,E1,Kidney Bean,0.6
+2025,1,E2,Kidney Bean,0.6
+2028,1,E4,Kidney Bean,0.6
+2025,1,E5,Kidney Bean,0.6
+2028,1,E5,Kidney Bean,0.6
+2028,2,E6,Kidney Bean,0.6
+2026,1,E7,Kidney Bean,0.6
+2029,2,E7,Kidney Bean,0.6
+2026,2,E8,Kidney Bean,0.6
+2026,2,E9,Kidney Bean,0.6
+2029,2,E9,Kidney Bean,0.6
+2026,2,E10,Kidney Bean,0.6
+2029,1,E10,Kidney Bean,0.6
+2026,1,E11,Kidney Bean,0.6
+2029,1,E11,Kidney Bean,0.6
+2025,2,E12,Kidney Bean,0.6
+2028,2,E12,Kidney Bean,0.3
+2028,2,E13,Kidney Bean,0.6
+2028,2,E14,Kidney Bean,0.6
+2025,1,E15,Kidney Bean,0.6
+2027,2,F3,Kidney Bean,0.6
+2029,2,F3,Kidney Bean,0.3375000000000003
+2024,1,D1,Potato,15.0
+2025,1,D1,Potato,2.812499999999993
+2027,1,D1,Potato,4.852499999999999
+2026,1,D2,Potato,10.0
+2029,1,D2,Potato,10.0
+2025,1,D3,Potato,14.0
+2029,1,D3,Potato,1.7213573925246544
+2030,2,D3,Potato,2.625000000000002
+2025,1,D5,Potato,10.0
+2026,1,D5,Potato,10.0
+2028,1,D7,Potato,22.0
+2027,1,D8,Potato,20.0
+2026,2,D1,Tomato,15.0
+2028,2,D1,Tomato,13.187499999999904
+2029,2,D1,Tomato,15.0
+2030,2,D1,Tomato,15.0
+2024,1,D2,Tomato,10.0
+2025,2,D3,Tomato,13.187500000000016
+2026,2,D3,Tomato,14.0
+2027,2,D3,Tomato,14.0
+2029,2,D3,Tomato,5.572500000000005
+2030,2,D3,Tomato,11.375000000000012
+2026,2,D5,Tomato,4.187500000000019
+2027,2,D5,Tomato,10.0
+2030,1,D5,Tomato,6.8125
+2024,1,D7,Tomato,22.0
+2027,2,D7,Tomato,9.187500000000005
+2029,2,D7,Tomato,12.615000000000002
+2025,2,D8,Tomato,20.0
+2028,2,D8,Tomato,20.0
+2026,1,D1,Eggplant,15.0
+2027,2,D1,Eggplant,15.0
+2030,1,D2,Eggplant,10.0
+2028,2,D3,Eggplant,14.0
+2029,2,D3,Eggplant,8.42750000000001
+2025,2,D4,Eggplant,4.3125
+2024,2,D5,Eggplant,10.0
+2025,2,D5,Eggplant,10.0
+2029,1,D5,Eggplant,6.7599999999999945
+2030,1,D5,Eggplant,3.1875000000000027
+2024,1,D6,Eggplant,5.187500000000006
+2030,2,D6,Eggplant,2.0
+2024,1,D4,Cabbage,1.9945945945945946
+2025,1,D4,Cabbage,1.9945945945945946
+2026,1,D4,Cabbage,1.9945945945945946
+2027,1,D4,Cabbage,1.9945945945945946
+2028,2,D4,Cabbage,1.9945945945945946
+2029,2,D4,Cabbage,1.9945945945945946
+2030,2,D4,Cabbage,1.9945945945945946
+2024,1,D4,Romaine Lettuce,1.997560975609756
+2025,1,D4,Romaine Lettuce,1.997560975609756
+2026,2,D4,Romaine Lettuce,1.997560975609756
+2027,2,D4,Romaine Lettuce,1.9975609756097534
+2028,2,D4,Romaine Lettuce,1.997560975609756
+2029,2,D4,Romaine Lettuce,1.997560975609756
+2030,2,D4,Romaine Lettuce,1.997560975609756
+2025,1,D1,Baby Bok Choy,12.187500000000007
+2027,1,D1,Baby Bok Choy,4.187500000000004
+2027,1,D2,Baby Bok Choy,10.0
+2028,2,D2,Baby Bok Choy,10.0
+2026,1,D3,Baby Bok Choy,2.1874999999999902
+2029,1,D3,Baby Bok Choy,12.1875
+2027,1,D5,Baby Bok Choy,10.0
+2025,1,D6,Baby Bok Choy,12.0
+2028,1,D6,Baby Bok Choy,12.0
+2029,2,D6,Baby Bok Choy,12.0
+2024,2,D7,Baby Bok Choy,22.0
+2026,1,D7,Baby Bok Choy,22.0
+2030,1,D7,Baby Bok Choy,22.0
+2030,1,D8,Baby Bok Choy,2.187499999998913
+2024,1,D4,Cucumber,1.6875
+2025,2,D4,Cucumber,1.6875
+2026,2,D4,Cucumber,1.6875
+2027,2,D4,Cucumber,1.6875
+2028,2,D4,Cucumber,1.6875
+2029,2,D4,Cucumber,1.6875
+2030,2,D4,Cucumber,1.6875
+2025,2,D2,Chinese Cabbage,10.0
+2026,2,D2,Chinese Cabbage,10.0
+2030,2,D2,Chinese Cabbage,10.0
+2024,1,D5,Chinese Cabbage,4.039999999999991
+2028,1,D5,Chinese Cabbage,10.0
+2030,2,D5,Chinese Cabbage,10.0
+2024,1,D6,Chinese Cabbage,5.960000000000009
+2027,2,D6,Chinese Cabbage,12.0
+2030,2,D6,Chinese Cabbage,10.0
+2025,1,D7,Chinese Cabbage,20.0
+2027,2,D7,Chinese Cabbage,12.8125
+2029,2,D7,Chinese Cabbage,9.385000000000005
+2024,2,D8,Chinese Cabbage,20.0
+2026,1,D8,Chinese Cabbage,20.0
+2028,1,D8,Chinese Cabbage,20.0
+2029,1,D8,Chinese Cabbage,20.0
+2029,1,D1,White Radish,15.0
+2024,2,D2,White Radish,10.0
+2024,1,D3,White Radish,14.0
+2029,2,D5,White Radish,10.0
+2027,1,D7,White Radish,22.0
+2028,2,D7,White Radish,22.0
+2030,2,D7,White Radish,6.959999999999999
+2025,1,D8,White Radish,20.0
+2026,2,D8,White Radish,20.0
+2030,2,D8,White Radish,18.040000000000006
+2027,2,D2,Red Radish,10.0
+2029,2,D2,Red Radish,10.0
+2024,2,D6,Red Radish,12.0
+2025,2,D6,Red Radish,12.0
+2026,2,D6,Red Radish,12.0
+2028,2,D6,Red Radish,12.0
+2030,1,D6,Red Radish,12.0
+2025,1,E1,Golden Oyster Mushroom,0.6
+2027,1,E1,Golden Oyster Mushroom,0.6
+2028,1,E1,Golden Oyster Mushroom,0.6
+2029,2,E1,Golden Oyster Mushroom,0.6
+2030,2,E1,Golden Oyster Mushroom,0.6
+2024,2,E2,Golden Oyster Mushroom,0.6
+2026,1,E2,Golden Oyster Mushroom,0.6
+2029,2,E2,Golden Oyster Mushroom,0.6
+2029,2,E3,Golden Oyster Mushroom,0.6
+2024,1,E4,Golden Oyster Mushroom,0.6
+2025,1,E4,Golden Oyster Mushroom,0.6
+2026,1,E4,Golden Oyster Mushroom,0.6
+2030,1,E4,Golden Oyster Mushroom,0.6
+2024,2,E5,Golden Oyster Mushroom,0.6
+2025,2,E5,Golden Oyster Mushroom,0.6
+2026,2,E5,Golden Oyster Mushroom,0.6
+2027,2,E5,Golden Oyster Mushroom,0.6
+2028,1,E9,Golden Oyster Mushroom,0.6
+2027,1,E10,Golden Oyster Mushroom,0.6
+2030,1,E10,Golden Oyster Mushroom,0.6
+2028,1,E13,Golden Oyster Mushroom,0.6
+2024,2,E1,Shiitake Mushroom,0.6
+2024,1,E2,Shiitake Mushroom,0.6
+2025,2,E4,Shiitake Mushroom,0.5900000000000006
+2026,2,E4,Shiitake Mushroom,0.6
+2029,1,E4,Shiitake Mushroom,0.6
+2028,2,E5,Shiitake Mushroom,0.6
+2030,1,E6,Shiitake Mushroom,0.6
+2025,2,E7,Shiitake Mushroom,0.6
+2028,2,E7,Shiitake Mushroom,0.6
+2027,1,E8,Shiitake Mushroom,0.6
+2028,2,E10,Shiitake Mushroom,0.6
+2027,2,E11,Shiitake Mushroom,0.6
+2026,2,E12,Shiitake Mushroom,0.6
+2024,1,E13,Shiitake Mushroom,0.6
+2025,1,E13,Shiitake Mushroom,0.5900000000000006
+2030,2,E13,Shiitake Mushroom,0.6
+2030,2,E14,Shiitake Mushroom,0.6
+2029,1,E15,Shiitake Mushroom,0.6
+2026,2,E16,Shiitake Mushroom,0.6
+2027,2,E16,Shiitake Mushroom,0.6
+2029,1,E16,Shiitake Mushroom,0.6
+2026,1,E3,White Elf Mushroom,0.6
+2029,1,E3,White Elf Mushroom,0.6
+2030,2,E4,White Elf Mushroom,0.6
+2026,1,E5,White Elf Mushroom,0.6
+2027,1,E5,White Elf Mushroom,0.6
+2027,1,E6,White Elf Mushroom,0.6
+2029,2,E6,White Elf Mushroom,0.6
+2024,2,E7,White Elf Mushroom,0.6
+2027,2,E7,White Elf Mushroom,0.6
+2024,1,E8,White Elf Mushroom,0.6
+2028,2,E9,White Elf Mushroom,0.6
+2025,1,E10,White Elf Mushroom,0.6
+2028,1,E10,White Elf Mushroom,0.6
+2025,2,E13,White Elf Mushroom,0.6
+2028,1,E14,White Elf Mushroom,0.6
+2029,2,E14,White Elf Mushroom,0.6
+2024,2,E15,White Elf Mushroom,0.6
+2026,2,E15,White Elf Mushroom,0.6
+2030,1,E15,White Elf Mushroom,0.6
+2025,1,E16,White Elf Mushroom,0.6
+2030,1,E16,White Elf Mushroom,0.6
+2026,2,E1,Morel Mushroom,0.6
+2028,2,E1,Morel Mushroom,0.6
+2026,2,E2,Morel Mushroom,0.6
+2027,2,E2,Morel Mushroom,0.6
+2029,1,E2,Morel Mushroom,0.6
+2030,2,E2,Morel Mushroom,0.6
+2024,1,E3,Morel Mushroom,0.6
+2025,2,E3,Morel Mushroom,0.6
+2028,2,E3,Morel Mushroom,0.6
+2030,2,E3,Morel Mushroom,0.6
+2027,1,E4,Morel Mushroom,0.6
+2028,2,E4,Morel Mushroom,0.6
+2030,1,E5,Morel Mushroom,0.6
+2025,1,E6,Morel Mushroom,0.6
+2026,1,E6,Morel Mushroom,0.6
+2027,2,E6,Morel Mushroom,0.6
+2026,2,E7,Morel Mushroom,0.6
+2028,1,E7,Morel Mushroom,0.6
+2030,2,E7,Morel Mushroom,0.6
+2024,2,E8,Morel Mushroom,0.6
+2025,2,E8,Morel Mushroom,0.6
+2027,2,E8,Morel Mushroom,0.6
+2025,1,E9,Morel Mushroom,0.6
+2027,2,E9,Morel Mushroom,0.6
+2029,1,E9,Morel Mushroom,0.6
+2027,2,E10,Morel Mushroom,0.6
+2029,2,E10,Morel Mushroom,0.6
+2024,1,E11,Morel Mushroom,0.6
+2025,1,E11,Morel Mushroom,0.6
+2028,1,E11,Morel Mushroom,0.6
+2029,2,E11,Morel Mushroom,0.6
+2024,2,E12,Morel Mushroom,0.6
+2026,1,E12,Morel Mushroom,0.6
+2027,1,E12,Morel Mushroom,0.6
+2028,1,E12,Morel Mushroom,0.6
+2029,1,E12,Morel Mushroom,0.6
+2030,1,E12,Morel Mushroom,0.6
+2026,1,E13,Morel Mushroom,0.6
+2029,1,E13,Morel Mushroom,0.6
+2030,1,E13,Morel Mushroom,0.6
+2024,1,E14,Morel Mushroom,0.6
+2025,1,E14,Morel Mushroom,0.6
+2030,1,E14,Morel Mushroom,0.6
+2024,1,E15,Morel Mushroom,0.6
+2025,2,E15,Morel Mushroom,0.6
+2024,1,E16,Morel Mushroom,0.6
+2026,1,E16,Morel Mushroom,0.6
+2028,1,E16,Morel Mushroom,0.6
+2029,2,E16,Morel Mushroom,0.6

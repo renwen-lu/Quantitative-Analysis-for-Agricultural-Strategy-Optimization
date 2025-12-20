@@ -1,0 +1,108 @@
+﻿Crop Name,Plot Type,Class,Crop Type,Yield_per_mu,Cost_per_mu,Avg_Price,Cost_per_Jin,Expected_Sales_Volume
+Soybean,Flat Dry Land,3,Grain (Legumes),400,400,3.25,1.0,167580.0
+Black Bean,Flat Dry Land,3,Grain (Legumes),500,400,7.5,0.8,65550.0
+Red Bean,Flat Dry Land,3,Grain (Legumes),400,350,8.25,0.875,68400.0
+Mung Bean,Flat Dry Land,3,Grain (Legumes),350,350,7.0,1.0,95520.0
+Climbing Bean,Flat Dry Land,3,Grain (Legumes),415,350,6.75,0.8433734939759037,29625.0
+Wheat,Flat Dry Land,3,Grain,800,450,3.5,0.5625,506160.0
+Corn,Flat Dry Land,3,Grain,1000,500,3.0,0.5,384750.0
+Millet,Flat Dry Land,3,Grain,400,360,6.75,0.9,210900.0
+Sorghum,Flat Dry Land,3,Grain,630,400,6.0,0.6349206349206349,90000.0
+Broomcorn Millet,Flat Dry Land,3,Grain,525,360,7.5,0.6857142857142857,37500.0
+Buckwheat,Flat Dry Land,4,Grain,110,350,40.0,3.1818181818181817,4725.0
+Pumpkin,Flat Dry Land,3,Grain,3000,1000,1.5,0.3333333333333333,111150.0
+Sweet Potato,Flat Dry Land,3,Grain,2200,2000,3.25,0.9090909090909091,113400.0
+Naked Oat,Flat Dry Land,3,Grain,420,400,5.5,0.9523809523809523,42000.0
+Barley,Flat Dry Land,3,Grain,525,350,3.5,0.6666666666666666,30000.0
+Soybean,Terraced Field,3,Grain (Legumes),380,400,3.25,1.0526315789473684,167580.0
+Black Bean,Terraced Field,3,Grain (Legumes),475,400,7.5,0.8421052631578947,65550.0
+Red Bean,Terraced Field,3,Grain (Legumes),380,350,8.25,0.9210526315789473,68400.0
+Mung Bean,Terraced Field,3,Grain (Legumes),330,350,7.0,1.0606060606060606,95520.0
+Climbing Bean,Terraced Field,3,Grain (Legumes),395,350,6.75,0.8860759493670886,29625.0
+Wheat,Terraced Field,3,Grain,760,450,3.5,0.5921052631578947,506160.0
+Corn,Terraced Field,3,Grain,950,500,3.0,0.5263157894736842,384750.0
+Millet,Terraced Field,3,Grain,380,360,6.75,0.9473684210526315,210900.0
+Sorghum,Terraced Field,3,Grain,600,400,6.0,0.6666666666666666,90000.0
+Broomcorn Millet,Terraced Field,3,Grain,500,360,7.5,0.72,37500.0
+Buckwheat,Terraced Field,4,Grain,105,350,40.0,3.3333333333333335,4725.0
+Pumpkin,Terraced Field,3,Grain,2850,1000,1.5,0.3508771929824561,111150.0
+Sweet Potato,Terraced Field,3,Grain,2100,2000,3.25,0.9523809523809523,113400.0
+Naked Oat,Terraced Field,3,Grain,400,400,5.5,1.0,42000.0
+Barley,Terraced Field,3,Grain,500,350,3.5,0.7,30000.0
+Soybean,Hillside Land,3,Grain (Legumes),360,400,3.25,1.1111111111111112,167580.0
+Black Bean,Hillside Land,3,Grain (Legumes),450,400,7.5,0.8888888888888888,65550.0
+Red Bean,Hillside Land,3,Grain (Legumes),360,350,8.25,0.9722222222222222,68400.0
+Mung Bean,Hillside Land,3,Grain (Legumes),315,350,7.0,1.1111111111111112,95520.0
+Climbing Bean,Hillside Land,3,Grain (Legumes),375,350,6.75,0.9333333333333333,29625.0
+Wheat,Hillside Land,3,Grain,720,450,3.5,0.625,506160.0
+Corn,Hillside Land,3,Grain,900,500,3.0,0.5555555555555556,384750.0
+Millet,Hillside Land,3,Grain,360,360,6.75,1.0,210900.0
+Sorghum,Hillside Land,3,Grain,570,400,6.0,0.7017543859649122,90000.0
+Broomcorn Millet,Hillside Land,3,Grain,475,360,7.5,0.7578947368421053,37500.0
+Buckwheat,Hillside Land,4,Grain,100,350,40.0,3.5,4725.0
+Pumpkin,Hillside Land,3,Grain,2700,1000,1.5,0.37037037037037035,111150.0
+Sweet Potato,Hillside Land,3,Grain,2000,2000,3.25,1.0,113400.0
+Naked Oat,Hillside Land,3,Grain,380,400,5.5,1.0526315789473684,42000.0
+Barley,Hillside Land,3,Grain,475,350,3.5,0.7368421052631579,30000.0
+Rice,Irrigated Land,3,Grain,500,680,7.0,1.36,21000.0
+Cowpea,Irrigated Land,3,Vegetable (Legumes),3000,2000,8.0,0.6666666666666666,77880.0
+Sword Bean,Irrigated Land,3,Vegetable (Legumes),2000,1000,6.75,0.5,58080.0
+Kidney Bean,Irrigated Land,3,Vegetable (Legumes),3000,2000,6.5,0.6666666666666666,11880.0
+Potato,Irrigated Land,3,Vegetable,2000,2000,3.75,1.0,66000.0
+Tomato,Irrigated Land,3,Vegetable,2400,2000,6.25,0.8333333333333334,79650.0
+Eggplant,Irrigated Land,3,Vegetable,6400,2000,5.5,0.3125,97200.0
+Spinach ,Irrigated Land,3,Vegetable,2700,2300,5.75,0.8518518518518519,900.0
+Green Pepper,Irrigated Land,3,Vegetable,2400,1600,5.25,0.6666666666666666,4050.0
+Cauliflower,Irrigated Land,3,Vegetable,3300,2400,5.5,0.7272727272727273,6570.0
+Cabbage,Irrigated Land,3,Vegetable,3700,2900,6.5,0.7837837837837838,7380.0
+Romaine Lettuce,Irrigated Land,3,Vegetable,4100,1600,5.0,0.3902439024390244,8190.0
+Baby Bok Choy,Irrigated Land,3,Vegetable,3200,1600,5.75,0.5,77400.0
+Cucumber,Irrigated Land,2,Vegetable,12000,2900,7.0,0.24166666666666667,20250.0
+Lettuce ,Irrigated Land,3,Vegetable,4100,1600,5.25,0.3902439024390244,1350.0
+Chili Pepper,Irrigated Land,3,Vegetable,1600,1000,7.25,0.625,2160.0
+Water Spinach,Irrigated Land,3,Vegetable,10000,4100,4.5,0.41,6600.0
+Yellow Heart Cabbage,Irrigated Land,3,Vegetable,5000,2000,4.5,0.4,3300.0
+Celery,Irrigated Land,3,Vegetable,5500,900,4.0,0.16363636363636364,1800.0
+Cowpea,Regular Greenhouse ,3,Vegetable (Legumes),3600,2400,8.0,0.6666666666666666,77880.0
+Sword Bean,Regular Greenhouse ,3,Vegetable (Legumes),2400,1200,6.75,0.5,58080.0
+Kidney Bean,Regular Greenhouse ,3,Vegetable (Legumes),3600,2400,6.5,0.6666666666666666,11880.0
+Potato,Regular Greenhouse ,3,Vegetable,2400,2400,3.75,1.0,66000.0
+Tomato,Regular Greenhouse ,3,Vegetable,3000,2400,6.25,0.8,79650.0
+Eggplant,Regular Greenhouse ,3,Vegetable,8000,2400,5.5,0.3,97200.0
+Spinach ,Regular Greenhouse ,3,Vegetable,3300,2700,5.75,0.8181818181818182,900.0
+Green Pepper,Regular Greenhouse ,3,Vegetable,3000,2000,5.25,0.6666666666666666,4050.0
+Cauliflower,Regular Greenhouse ,3,Vegetable,4000,3000,5.5,0.75,6570.0
+Cabbage,Regular Greenhouse ,3,Vegetable,4500,3500,6.5,0.7777777777777778,7380.0
+Romaine Lettuce,Regular Greenhouse ,3,Vegetable,5000,2000,5.0,0.4,8190.0
+Baby Bok Choy,Regular Greenhouse ,3,Vegetable,4000,2000,5.75,0.5,77400.0
+Cucumber,Regular Greenhouse ,2,Vegetable,15000,3500,7.0,0.23333333333333334,20250.0
+Lettuce ,Regular Greenhouse ,3,Vegetable,5000,2000,5.25,0.4,1350.0
+Chili Pepper,Regular Greenhouse ,3,Vegetable,2000,1200,7.25,0.6,2160.0
+Water Spinach,Regular Greenhouse ,3,Vegetable,12000,5000,4.5,0.4166666666666667,6600.0
+Yellow Heart Cabbage,Regular Greenhouse ,3,Vegetable,6000,2500,4.5,0.4166666666666667,3300.0
+Celery,Regular Greenhouse ,3,Vegetable,6600,1100,4.0,0.16666666666666666,1800.0
+Chinese Cabbage,Irrigated Land,3,Vegetable,5000,2000,2.5,0.4,150000.0
+White Radish,Irrigated Land,3,Vegetable,4000,500,2.5,0.125,100000.0
+Red Radish,Irrigated Land,3,Vegetable,3000,500,3.25,0.16666666666666666,36000.0
+Golden Oyster Mushroom,Regular Greenhouse ,1,Edible Mushroom,5000,3000,57.5,0.6,9000.0
+Shiitake Mushroom,Regular Greenhouse ,2,Edible Mushroom,4000,2000,19.0,0.5,7200.0
+White Elf Mushroom,Regular Greenhouse ,2,Edible Mushroom,10000,10000,16.0,1.0,18000.0
+Morel Mushroom,Regular Greenhouse ,1,Edible Mushroom,1000,10000,100.0,10.0,4200.0
+Cowpea,Smart Greenhouse,3,Vegetable (Legumes),3200,2640,9.6,0.825,77880.0
+Sword Bean,Smart Greenhouse,3,Vegetable (Legumes),2200,1320,8.1,0.6,58080.0
+Kidney Bean,Smart Greenhouse,3,Vegetable (Legumes),3200,2640,7.8,0.825,11880.0
+Potato,Smart Greenhouse,3,Vegetable,2200,2640,4.5,1.2,66000.0
+Tomato,Smart Greenhouse,3,Vegetable,2700,2640,7.5,0.9777777777777777,79650.0
+Eggplant,Smart Greenhouse,3,Vegetable,7200,2640,6.6,0.36666666666666664,97200.0
+Spinach ,Smart Greenhouse,3,Vegetable,3000,3000,6.9,1.0,900.0
+Green Pepper,Smart Greenhouse,3,Vegetable,2700,2200,6.8,0.8148148148148148,4050.0
+Cauliflower,Smart Greenhouse,3,Vegetable,3600,3300,6.6,0.9166666666666666,6570.0
+Cabbage,Smart Greenhouse,3,Vegetable,4100,3850,7.8,0.9390243902439024,7380.0
+Romaine Lettuce,Smart Greenhouse,3,Vegetable,4500,2200,6.0,0.4888888888888889,8190.0
+Baby Bok Choy,Smart Greenhouse,3,Vegetable,3600,2200,6.9,0.6111111111111112,77400.0
+Cucumber,Smart Greenhouse,2,Vegetable,13500,3850,8.4,0.2851851851851852,20250.0
+Lettuce ,Smart Greenhouse,3,Vegetable,4500,2200,6.300000000000001,0.4888888888888889,1350.0
+Chili Pepper,Smart Greenhouse,3,Vegetable,1800,1300,8.7,0.7222222222222222,2160.0
+Water Spinach,Smart Greenhouse,3,Vegetable,11000,5500,5.4,0.5,6600.0
+Yellow Heart Cabbage,Smart Greenhouse,3,Vegetable,5400,2750,5.4,0.5092592592592593,3300.0
+Celery,Smart Greenhouse,3,Vegetable,6000,1200,4.8,0.2,1800.0
