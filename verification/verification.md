@@ -40,7 +40,7 @@ The award information is listed in the official document published on the CUMCM 
 2.  Navigate to **Page 11**.
 3.  Look for **Row 286**.
 4.  You will find the team information:
-    * **Name:** 鲁任文
+    * **Name:** 吕思涵 鲁任文 赵歆雅慧
     * **University:** 哈尔滨工程大学
 
 *(Note: The award summary is on Page 1 for First Prize and Page 6 for Second Prize).*
@@ -59,3 +59,4 @@ Please input the following information into the query form (from top to bottom):
 4.  **Year (获奖年份):** Select `2024`
 
 After clicking query, the system will display the verified National Second Prize certificate information.
+
