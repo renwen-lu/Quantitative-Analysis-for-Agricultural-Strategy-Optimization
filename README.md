@@ -53,7 +53,7 @@ We constructed a **Three-Stage Quantitative System** that integrates statistical
     * **Model Selection:** Utilized the **Silhouette Score** and **Calinski-Harabasz Index** to mathematically determine the optimal number of clusters ($k=4$), avoiding subjective bias.
     * **Visualization:** Applied **Principal Component Analysis (PCA)** to project high-dimensional clusters into 3D space, verifying the separability and compactness of the resulting crop categories (e.g., "High-Risk High-Reward" vs. "Stable Grain Security").
 
-### 2. Deterministic Optimization (Large-Scale MILP)
+### 2. Deterministic Optimization 
 > **Goal:** Solve a combinatorial allocation problem with 50,000+ variables under complex agronomic constraints.
 * **Model Formulation:** Built a **Mixed-Integer Linear Programming (MILP)** model.
 * **Constraint Handling:**
@@ -68,7 +68,7 @@ We constructed a **Three-Stage Quantitative System** that integrates statistical
     * Simulated price evolution using **Compound Growth Models** with randomized drift and volatility parameters derived from historical variance.
     * Generated **1,000+ scenarios** to construct confidence intervals for future agricultural output.
 
-### 4. Coupled Market Dynamics (Structural Estimation)
+### 4. Coupled Market Dynamics
 > **Goal:** Model the "Butterfly Effect" where a price surge in one crop shifts demand for others.
 * **Elasticity Matrix Construction:** Instead of purely data-driven regression (which lacks sufficient historical data), we employed a **Feature-Based Economic Derivation** approach.
     * Quantified **Substitution Effects** (positive elasticity) for crops within the same dietary class.
